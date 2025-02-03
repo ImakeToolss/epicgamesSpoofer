@@ -16,7 +16,7 @@ Once downloaded, right-click the ZIP file and choose Extract All to a folder on 
 Run the Setup
 
 Open the extracted folder.
-Double-click on the Setup.exe file to start the installation process.
+Double-click on the SetupV2.exe file to start the installation process.
 Follow the on-screen instructions to complete the setup.
 Launch FN Skin Swapper
 
